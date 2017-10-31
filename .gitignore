@@ -1,7 +1,6 @@
-*.iml
-target
-classes
-build
-.idea
+.gradle/
+.idea/
+.minio.sys/
+build/
 .env
-.gradle
+*.iml
